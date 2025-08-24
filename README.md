@@ -1,69 +1,115 @@
 # 👋 Hi there, I'm Baraa!
 
-## 🚀 **Full-Stack Developer & Computer Vision Enthusiast**
+## 🎓 **Computer Science Student & Full-Stack Developer**
 
-I'm a passionate developer who loves creating innovative solutions and exploring cutting-edge technologies. My expertise spans from web development to computer vision and AI applications.
+Computer Science student at Birzeit University with a strong focus on backend development, database systems, and large-scale system design. Passionate about building scalable web applications and desktop solutions using modern technologies and frameworks.
 
 ---
 
 ## 🛠️ **Tech Stack & Skills**
 
 ### **Programming Languages**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+### **Web Technologies**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### **Frameworks & Libraries**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PyGame](https://img.shields.io/badge/PyGame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Computer Vision & AI**
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 🎯 **Featured Projects**
 
+### **🏥 Hospital Management System**
+**Full-stack web application with FastAPI and MongoDB**
+- **Backend**: FastAPI with MongoDB integration for efficient data processing
+- **Features**: Patient management, appointment scheduling, medical records
+- **Architecture**: RESTful API design with comprehensive data modeling
+- **Security**: Implemented authentication and role-based access control
+
+### **🏨 Hotel Management System**
+**Spring Boot and PostgreSQL-based system for room booking**
+- **Backend**: Spring Boot with PostgreSQL for robust data persistence  
+- **Features**: Room reservation, guest management, billing system
+- **Database**: Advanced relational database design with complex queries
+- **Performance**: Optimized for high-volume booking operations
+
+### **📱 To-Do Application**
+**Django full-stack app with MongoDB integration**
+- **Frontend**: Responsive web interface with intuitive user experience
+- **Backend**: Django framework with MongoDB for flexible data storage
+- **Features**: Task prioritization, deadline tracking, user authentication
+
+### **🎮 Video Player Application**
+**High-performance C++ application with Qt6 and OpenCV**
+- **GUI**: Modern Qt6 interface for seamless video playback
+- **Processing**: OpenCV integration for video format support
+- **Performance**: Optimized for smooth playback and media handling
+- **Architecture**: Clean separation of concerns with robust error handling
+
 ### **🤖 Real-Time Face Detection**
-**A high-performance C++ application with Qt6 and OpenCV**
-- **Parallel Processing**: Multi-threaded architecture utilizing 4 CPU cores
-- **Real-Time Performance**: 10 FPS processing with configurable frame rates
-- **Modern GUI**: Professional Qt6 interface with live camera feed
-- **Thread Safety**: Comprehensive mutex protection and synchronization
+**C++ application with Qt6 and OpenCV for computer vision**
+- **Real-Time Processing**: Live camera feed analysis with face detection
+- **GUI**: Professional Qt6 interface with configuration options  
+- **Computer Vision**: Advanced OpenCV algorithms for accurate detection
+- **Performance**: Multi-threaded architecture for optimal performance
 
 [![Face Detection](https://img.shields.io/badge/View_Project-Real--Time_Face_Detection-blue?style=for-the-badge&logo=github)](https://github.com/Baraa-Rj/Face-Detector)
 
-### **🌐 Web Applications**
-**Full-stack web solutions with modern technologies**
-- **E-commerce Platforms**: React + Node.js + MongoDB
-- **Social Media Apps**: Vue.js + Express + PostgreSQL
-- **Real-time Chat**: Socket.io + React + Redis
-- **Admin Dashboards**: Material-UI + Chart.js
+---
 
-### **🤖 AI & Machine Learning**
-**Computer vision and machine learning applications**
-- **Image Classification**: CNN models with TensorFlow/PyTorch
-- **Object Detection**: YOLO and custom detection models
-- **Natural Language Processing**: Sentiment analysis and text classification
-- **Recommendation Systems**: Collaborative filtering algorithms
+## 💼 **Professional Experience**
+
+### **Backend Developer**
+**Fulla Solutions** | *2024*
+- Developed and deployed scalable backend services using Java Spring Boot and PostgreSQL
+- Designed and optimized database schemas, improving query performance by 40%
+- Collaborated with frontend teams to implement RESTful APIs and microservices architecture
+- Refactored legacy code to improve performance and maintainability
+
+---
+
+## 🎓 **Education**
+
+**Birzeit University** | *2022-2026 (Expected)*
+- **Major**: Computer Science
+- **Specialization**: Backend Systems and Database Optimization
+- **Relevant Coursework**: Advanced Algorithms, Database Software Engineering, AI Design, Database Architecture, Data Analysis, Algorithm Development
+
+---
+
+## 🌍 **International Experience**
+
+**Freie Universität Berlin** | *Germany*  
+**Exchange Program**
+- Cross-cultural academic experience enhancing global perspective
+- Advanced coursework in software engineering and system design
+- Collaboration with international teams on software development projects
 
 ---
 
@@ -77,86 +123,54 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 ---
 
-## 🏆 **Achievements & Certifications**
+## 🏆 **Technical Expertise**
 
-- **🎯 Open Source Contributor**: Active participation in various open-source projects
-- **🚀 Performance Optimization**: Expertise in multi-threading and parallel processing
-- **🔒 Security Focus**: Implementation of robust security measures in applications
-- **📱 Cross-Platform Development**: Experience with desktop and web applications
+### **Backend Development**
+- **Spring Boot**: Enterprise-level Java applications with microservices architecture
+- **FastAPI**: High-performance Python APIs with automatic documentation
+- **Database Design**: Advanced PostgreSQL, MySQL, and MongoDB optimization
+- **RESTful APIs**: Scalable API development with proper authentication
+
+### **Desktop Application Development**
+- **Qt Framework**: Cross-platform GUI applications with modern interfaces
+- **OpenCV Integration**: Computer vision and image processing applications
+- **C++ Optimization**: Performance-critical applications with efficient algorithms
+- **Multimedia Processing**: Video and image handling with advanced features
+
+### **Web Development**
+- **Full-Stack Solutions**: End-to-end web application development
+- **Database Integration**: Complex data modeling and optimization
+- **API Development**: RESTful services with comprehensive documentation
+- **System Architecture**: Scalable and maintainable software design
 
 ---
 
 ## 🌟 **What I'm Currently Working On**
 
-- **🔬 Advanced Computer Vision**: Developing real-time object tracking systems
-- **🌐 Full-Stack Applications**: Building scalable web solutions
-- **🤖 Machine Learning Models**: Creating custom AI solutions for specific domains
-- **📚 Learning**: Exploring new technologies and frameworks
+- 🔬 **Advanced Backend Systems**: Building scalable microservices architectures
+- 🏥 **Healthcare Solutions**: Developing comprehensive management systems
+- 🤖 **Computer Vision Applications**: Real-time processing and AI integration  
+- 📚 **Learning**: Exploring cloud technologies and distributed systems
 
 ---
 
-## 💡 **Areas of Expertise**
+## 🎯 **Areas of Interest**
 
-### **Software Architecture**
-- **Multi-threaded Applications**: Thread pool design and synchronization
-- **Performance Optimization**: Memory management and CPU utilization
-- **Design Patterns**: Implementation of scalable and maintainable code
-- **API Design**: RESTful and GraphQL API development
-
-### **Computer Vision & AI**
-- **Real-Time Processing**: High-performance image and video processing
-- **Machine Learning**: Custom model development and training
-- **OpenCV Integration**: Advanced computer vision applications
-- **Neural Networks**: Deep learning model implementation
-
-### **Web Development**
-- **Frontend Frameworks**: React, Vue.js, and modern JavaScript
-- **Backend Systems**: Node.js, Express, and database design
-- **Full-Stack Solutions**: End-to-end application development
-- **Performance Optimization**: Web application speed and efficiency
+- **System Architecture**: Scalable backend systems and microservices
+- **Database Optimization**: Performance tuning and advanced query optimization
+- **Computer Vision**: Real-time image and video processing applications
+- **Healthcare Technology**: Building solutions for medical and healthcare domains
+- **Cross-Platform Development**: Desktop and web application development
 
 ---
 
 ## 🤝 **Let's Connect!**
 
-I'm always interested in collaborating on interesting projects and learning new technologies. Feel free to reach out!
+I'm always interested in collaborating on challenging projects and exploring new technologies, especially in backend development and system design.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=tile&logoColor=white)](https://your-portfolio.com)
-
----
-
-## 📈 **Recent Activity**
-
-<!--START_SECTION:activity-->
-1. 🚀 **Pushed** to `Baraa-Rj/Face-Detector` - Added comprehensive README
-2. 🔒 **Fixed** security vulnerabilities in face detection application
-3. ⚡ **Optimized** parallel processing with thread pool architecture
-4. 🎯 **Implemented** real-time face detection with OpenCV
-5. 🧵 **Enhanced** multi-threading performance and stability
-<!--END_SECTION:activity-->
-
----
-
-## 🎯 **Goals for 2024**
-
-- [ ] **Launch 3 new open-source projects**
-- [ ] **Contribute to major open-source repositories**
-- [ ] **Master advanced computer vision techniques**
-- [ ] **Build a scalable AI platform**
-- [ ] **Mentor junior developers**
-
----
-
-## 💬 **Fun Facts About Me**
-
-- 🎮 **Gamer**: Love strategy games and puzzle solving
-- 📚 **Bookworm**: Always reading about new technologies
-- ☕ **Coffee Enthusiast**: Fueled by caffeine and code
-- 🌍 **Traveler**: Exploring new places and cultures
-- 🎵 **Music Lover**: Coding with the perfect playlist
 
 ---
 
@@ -166,22 +180,15 @@ I'm always interested in collaborating on interesting projects and learning new 
 
 ---
 
-## 📝 **Latest Blog Posts**
+## 💬 **Languages**
 
-- **🚀 Building High-Performance Multi-Threaded Applications**
-- **🔒 Security Best Practices in C++ Applications**
-- **🤖 Real-Time Computer Vision with OpenCV**
-- **⚡ Optimizing Qt Applications for Performance**
-
----
-
-## 🌟 **Support My Work**
-
-If you find my projects helpful, consider giving them a ⭐ star on GitHub!
+- **Arabic**: Native proficiency
+- **English**: Professional working proficiency  
+- **German**: Basic conversational level (A1)
 
 ---
 
-*"Code is poetry in motion, and every bug is just a feature waiting to be discovered!"* ✨
+*"Building robust systems that solve real-world problems, one line of code at a time!"* ✨
 
 ---
 
