@@ -45,7 +45,7 @@ Computer Science student at Birzeit University with a strong focus on backend de
 
 ## 🎯 **Featured Projects**
 
-### **🏥 Hospital Management System**
+### **🏥 Crisis Management System**
 **Full-stack web application with FastAPI and MongoDB**
 - **Backend**: FastAPI with MongoDB integration for efficient data processing
 - **Features**: Patient management, appointment scheduling, medical records
@@ -168,8 +168,8 @@ Computer Science student at Birzeit University with a strong focus on backend de
 
 I'm always interested in collaborating on challenging projects and exploring new technologies, especially in backend development and system design.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baraa-rjoub-856b17250/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baraarjoob17@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=tile&logoColor=white)](https://your-portfolio.com)
 
 ---
