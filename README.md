@@ -42,20 +42,6 @@ Computer Science student at Birzeit University specializing in AI/ML, Computer V
 - Built RESTful API endpoints for room reservation, guest management, and billing operations
 - Optimized database queries for high-volume booking operations
 
-### **📱 To-Do Application**
-**Django, MongoDB** | *2023*
-- Full-stack Django application with MongoDB for flexible task storage and management
-- Implemented task prioritization, deadline tracking, and user authentication
-- Responsive web interface with intuitive user experience
-- RESTful backend design for seamless frontend integration
-
-### **🎮 Video Player Application**
-**C++, Qt6, OpenCV** | *2023*
-- High-performance C++ application with Qt6 interface for seamless video playback
-- OpenCV integration supporting multiple video formats and codec handling
-- Optimized for smooth playback and efficient media processing
-- Clean architecture with robust error handling and user controls
-
 ### **🤖 Real-Time Face Detection System**
 **C++, Qt, OpenCV, Multithreading** | *2024*
 - Developed multithreaded C++ application using Qt and OpenCV for real-time face detection from live camera feed
@@ -93,20 +79,9 @@ Computer Science student at Birzeit University specializing in AI/ML, Computer V
 
 ## 🎓 **Education**
 
-**Birzeit University** | *2022-2026 (Expected)*
-- **Major**: Computer Science
-- **Focus Areas**: AI/ML, Computer Vision, Backend Systems, Autonomous Systems
-- **Relevant Coursework**: Machine Learning, Computer Vision, Data Structures & Algorithms, Database Systems, Software Engineering, Object-Oriented Programming
-
----
-
-## 🌍 **International Experience**
-
-**Freie Universität Berlin** | *Germany*  
-**Exchange Program**
-- Cross-cultural academic experience enhancing global perspective
-- Advanced coursework in software engineering and system design
-- Collaboration with international teams on software development projects
+**Birzeit University** | *Birzeit, Palestine* | *2022-2026*
+- B.S. in Computer Science • Focus: AI/ML, Computer Vision, Backend Systems, Autonomous Systems
+- Exchange Semester: **Freie Universität Berlin, Germany** (Fall 2024)
 
 ---
 
@@ -120,47 +95,6 @@ Computer Science student at Birzeit University specializing in AI/ML, Computer V
 
 ---
 
-## 🏆 **Technical Expertise**
-
-### **Backend Development**
-- **Spring Boot**: Enterprise-level Java applications with microservices architecture
-- **FastAPI**: High-performance Python APIs with automatic documentation
-- **Database Design**: Advanced PostgreSQL, MySQL, and MongoDB optimization
-- **RESTful APIs**: Scalable API development with proper authentication
-
-### **Desktop Application Development**
-- **Qt Framework**: Cross-platform GUI applications with modern interfaces
-- **OpenCV Integration**: Computer vision and image processing applications
-- **C++ Optimization**: Performance-critical applications with efficient algorithms
-- **Multimedia Processing**: Video and image handling with advanced features
-
-### **Web Development**
-- **Full-Stack Solutions**: End-to-end web application development
-- **Database Integration**: Complex data modeling and optimization
-- **API Development**: RESTful services with comprehensive documentation
-- **System Architecture**: Scalable and maintainable software design
-
----
-
-## 🌟 **What I'm Currently Working On**
-
-- 🔬 **Advanced Backend Systems**: Building scalable microservices architectures
-- 🏥 **Healthcare Solutions**: Developing comprehensive management systems
-- 🤖 **Computer Vision Applications**: Real-time processing and AI integration  
-- 📚 **Learning**: Exploring cloud technologies and distributed systems
-
----
-
-## 🎯 **Areas of Interest**
-
-- **System Architecture**: Scalable backend systems and microservices
-- **Database Optimization**: Performance tuning and advanced query optimization
-- **Computer Vision**: Real-time image and video processing applications
-- **Healthcare Technology**: Building solutions for medical and healthcare domains
-- **Cross-Platform Development**: Desktop and web application development
-
----
-
 ## 🤝 **Let's Connect!**
 
 I'm always interested in collaborating on challenging projects and exploring new technologies, especially in backend development and system design.
@@ -168,12 +102,6 @@ I'm always interested in collaborating on challenging projects and exploring new
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baraa-rjoub-856b17250/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baraarjoob17@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baraa-Rj)
-
----
-
-## 🏆 **GitHub Trophies**
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Baraa-Rj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
