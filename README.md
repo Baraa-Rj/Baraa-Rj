@@ -45,52 +45,76 @@ Computer Science student at Birzeit University with a strong focus on backend de
 
 ## 🎯 **Featured Projects**
 
+### **🚀 NASA Space Apps Challenge – Exoplanet Detection with AI**
+**Python, TensorFlow, CNN, LSTM** | *2025*
+- Built deep learning models to identify exoplanets from transit light curve data using NASA Kepler mission dataset (197K+ observations)
+- Implemented CNN-based architecture for time-series classification, achieving 92% accuracy in detecting exoplanet transits under noisy signal conditions
+- Led data preprocessing pipeline: handled missing values, normalized light curves, and performed feature extraction from temporal patterns
+- Experimented with multiple approaches including LSTM networks and ensemble methods, comparing model performance across precision, recall, and F1-score metrics
+- Collaborated in 4-person team using Git, contributing 40% of final codebase
+
+[![NASA Space Apps](https://img.shields.io/badge/View_Project-NASA_Space_Apps-blue?style=for-the-badge&logo=github)](https://github.com/Baraa-Rj)
+
 ### **🏥 Crisis Management System**
-**Full-stack web application with FastAPI and MongoDB**
-- **Backend**: FastAPI with MongoDB integration for efficient data processing
-- **Features**: Patient management, appointment scheduling, medical records
-- **Architecture**: RESTful API design with comprehensive data modeling
-- **Security**: Implemented authentication and role-based access control
+**FastAPI, MongoDB, WebSocket, Geospatial** | *2024*
+- Backend REST API using FastAPI and MongoDB for real-time incident tracking and geographic mapping
+- Handles concurrent requests with sub-200ms response time
+- Implemented geospatial queries for radius-based incident search and real-time WebSocket updates
+- Built comprehensive authentication and role-based access control system
 
 ### **🏨 Hotel Management System**
-**Spring Boot and PostgreSQL-based system for room booking**
-- **Backend**: Spring Boot with PostgreSQL for robust data persistence  
-- **Features**: Room reservation, guest management, billing system
-- **Database**: Advanced relational database design with complex queries
-- **Performance**: Optimized for high-volume booking operations
+**Spring Boot, PostgreSQL, REST API** | *2023*
+- Full-stack application using Spring Boot and PostgreSQL managing bookings, guest records, and automated billing
+- Designed normalized database schema supporting complex queries and implemented transaction management ensuring data consistency
+- Built RESTful API endpoints for room reservation, guest management, and billing operations
+- Optimized database queries for high-volume booking operations
 
 ### **📱 To-Do Application**
-**Django full-stack app with MongoDB integration**
-- **Frontend**: Responsive web interface with intuitive user experience
-- **Backend**: Django framework with MongoDB for flexible data storage
-- **Features**: Task prioritization, deadline tracking, user authentication
+**Django, MongoDB** | *2023*
+- Full-stack Django application with MongoDB for flexible task storage and management
+- Implemented task prioritization, deadline tracking, and user authentication
+- Responsive web interface with intuitive user experience
+- RESTful backend design for seamless frontend integration
 
 ### **🎮 Video Player Application**
-**High-performance C++ application with Qt6 and OpenCV**
-- **GUI**: Modern Qt6 interface for seamless video playback
-- **Processing**: OpenCV integration for video format support
-- **Performance**: Optimized for smooth playback and media handling
-- **Architecture**: Clean separation of concerns with robust error handling
+**C++, Qt6, OpenCV** | *2023*
+- High-performance C++ application with Qt6 interface for seamless video playback
+- OpenCV integration supporting multiple video formats and codec handling
+- Optimized for smooth playback and efficient media processing
+- Clean architecture with robust error handling and user controls
 
-### **🤖 Real-Time Face Detection**
-**C++ application with Qt6 and OpenCV for computer vision**
-- **Real-Time Processing**: Live camera feed analysis with face detection
-- **GUI**: Professional Qt6 interface with configuration options  
-- **Computer Vision**: Advanced OpenCV algorithms for accurate detection
-- **Performance**: Multi-threaded architecture for optimal performance
+### **🤖 Real-Time Face Detection System**
+**C++, Qt, OpenCV, Multithreading** | *2024*
+- Developed multithreaded C++ application using Qt and OpenCV for real-time face detection from live camera feed
+- Implemented Haar Cascade classifiers achieving 30+ FPS on standard hardware
+- Optimized for performance using parallel processing, reducing detection latency by 45%
+- Professional GUI interface with configuration options for various detection parameters
 
 [![Face Detection](https://img.shields.io/badge/View_Project-Real--Time_Face_Detection-blue?style=for-the-badge&logo=github)](https://github.com/Baraa-Rj/Face-Detector)
+
+### **🚗 Autonomous Vehicle Data Tooling**
+**C++, Python, LiDAR, Sensor Fusion** | *2024*
+- Created C++ tools and Python scripts to collect, synchronize, and preprocess multi-sensor data (camera, LiDAR, IMU) for autonomous driving datasets
+- Processed 3GB+ of raw sensor streams, implementing calibration and temporal alignment algorithms for dataset creation
+- Developed robust data pipeline for handling high-frequency sensor data in autonomous vehicle research
 
 ---
 
 ## 💼 **Professional Experience**
 
-### **Backend Developer**
-**Fulla Solutions** | *2024*
-- Developed and deployed scalable backend services using Java Spring Boot and PostgreSQL
-- Designed and optimized database schemas, improving query performance by 40%
-- Collaborated with frontend teams to implement RESTful APIs and microservices architecture
-- Refactored legacy code to improve performance and maintainability
+### **Computer Vision / ML Engineering Intern**
+**Imagry Autonomous AI Systems** | *Remote* | *Summer 2025*
+- Developed and optimized perception modules for autonomous vehicles, implementing object detection and lane recognition algorithms using C++ and OpenCV, achieving 89% mAP on custom dataset
+- Built end-to-end data pipelines processing 50K+ images, implementing augmentation strategies (rotation, brightness, occlusion) that improved model robustness by 15% across varying weather and lighting conditions
+- Integrated ML model outputs into real-time inference systems via REST APIs, reducing latency to under 100ms per frame for production deployment
+- Collaborated with cross-functional team using Git for version control and participated in code reviews to maintain high code quality standards
+
+### **Backend Developer Intern**
+**Falak Solutions** | *Palestine* | *Summer 2024*
+- Designed and implemented RESTful microservices using Spring Boot and PostgreSQL, handling 10K+ daily transactions with 99.8% uptime
+- Optimized SQL queries and database schema, reducing average query response time from 450ms to 180ms (60% improvement) and increasing system throughput by 3x
+- Refactored monolithic modules into modular microservices architecture, improving code maintainability and reducing deployment time by 40%
+- Implemented comprehensive API documentation using Swagger, facilitating seamless integration for frontend teams
 
 ---
 
@@ -98,8 +122,8 @@ Computer Science student at Birzeit University with a strong focus on backend de
 
 **Birzeit University** | *2022-2026 (Expected)*
 - **Major**: Computer Science
-- **Specialization**: Backend Systems and Database Optimization
-- **Relevant Coursework**: Advanced Algorithms, Database Software Engineering, AI Design, Database Architecture, Data Analysis, Algorithm Development
+- **Focus Areas**: AI/ML, Computer Vision, Backend Systems, Autonomous Systems
+- **Relevant Coursework**: Machine Learning, Computer Vision, Data Structures & Algorithms, Database Systems, Software Engineering, Object-Oriented Programming
 
 ---
 
@@ -169,8 +193,8 @@ Computer Science student at Birzeit University with a strong focus on backend de
 I'm always interested in collaborating on challenging projects and exploring new technologies, especially in backend development and system design.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baraa-rjoub-856b17250/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baraarjoob17@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=tile&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baraarjoob17@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baraa-Rj)
 
 ---
 
