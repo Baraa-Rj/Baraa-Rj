@@ -1,45 +1,18 @@
 # 👋 Hi there, I'm Baraa!
 
-## 🎓 **Computer Science Student & Full-Stack Developer**
+## 🎓 Computer Science Student & Full-Stack Developer
 
-Computer Science student at Birzeit University with a strong focus on backend development, database systems, and large-scale system design. Passionate about building scalable web applications and desktop solutions using modern technologies and frameworks.
+Computer Science student at Birzeit University specializing in AI/ML, Computer Vision, and Backend Systems. Passionate about building scalable applications and autonomous vehicle technologies.
 
 ---
 
-## 🛠️ **Tech Stack & Skills**
+## 🛠️ Tech Stack
 
-### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Web Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### **Frameworks & Libraries**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PyGame](https://img.shields.io/badge/PyGame-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Computer Vision & AI**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Languages:** Java • Python • C++ • JavaScript  
+**Backend:** Spring Boot • FastAPI • Django • REST APIs  
+**AI/ML:** TensorFlow • PyTorch • OpenCV • Computer Vision  
+**Databases:** PostgreSQL • MySQL • MongoDB  
+**Tools:** Git • Docker • Qt • Postman
 
 ---
 
