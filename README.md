@@ -105,13 +105,6 @@ I'm always interested in collaborating on challenging projects and exploring new
 
 ---
 
-## 💬 **Languages**
-
-- **Arabic**: Native proficiency
-- **English**: Professional working proficiency  
-- **German**: Basic conversational level (A1)
-
----
 
 *"Building robust systems that solve real-world problems, one line of code at a time!"* ✨
 
